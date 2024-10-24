@@ -26,6 +26,6 @@ PRODUCT_MODEL := XiaoXin Pad 2022
 PRODUCT_GMS_CLIENTID_BASE := android-lenovo
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="qssi-user 12 SKQ1.220119.001 13.5.476_220805 release-keys"
+    BuildDesc=$(call normalize-path-list,"qssi-user 12 SKQ1.220119.001 13.5.476_220805 release-keys")
 
 BUILD_FINGERPRINT := Lenovo/P89990JA1/TB128FU:12/SKQ1.220119.001/13.5.476_220805:user/release-keys
