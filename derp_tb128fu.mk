@@ -12,12 +12,12 @@ WITH_GMS := true
 TARGET_DISABLE_EPPE := true
 
 # Inherit some common Evolution-X stuff.
-$(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/derp/config/common_full_tablet_wifionly.mk)
 
 # Inherit from tb128fu device
 $(call inherit-product, device/lenovo/tb128fu/device.mk)
 
-PRODUCT_NAME := lineage_tb128fu
+PRODUCT_NAME := derp_tb128fu
 PRODUCT_DEVICE := tb128fu
 PRODUCT_MANUFACTURER := Lenovo
 PRODUCT_BRAND := Lenovo
