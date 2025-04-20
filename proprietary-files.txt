@@ -128,7 +128,6 @@ vendor/lib64/camera/fdconfigvideo.bin
 vendor/lib64/camera/fdconfigvideolite.bin
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.override.so
-vendor/lib64/libI420colorconvert.so
 vendor/lib64/libaidenoiser.so
 vendor/lib64/libaw_portrait_mask.so
 vendor/lib64/libbitmlengine.so
@@ -142,6 +141,7 @@ vendor/lib64/libchilog.so
 vendor/lib64/libcom.qti.chinodeutils.so
 vendor/lib64/libipebpsstriping.so
 vendor/lib64/libjpege.so
+vendor/lib64/liblenovo_blur.so
 vendor/lib64/libmctfengine_stub.so
 vendor/lib64/libNvBeautyEffect.so
 vendor/lib64/libofflinelog.so
