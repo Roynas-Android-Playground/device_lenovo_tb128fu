@@ -256,14 +256,10 @@ vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 
 # Camera Sensor
 vendor/lib/libmmcamera_cac3.so
-vendor/lib/libmmcamera_faceproc.so
-vendor/lib/libmmcamera_faceproc2.so
 vendor/lib/libmmcamera_lscv35.so
 vendor/lib/libmmcamera_mfnr.so
 vendor/lib/libmmcamera_mfnr_t4.so
 vendor/lib64/libmmcamera_cac3.so
-vendor/lib64/libmmcamera_faceproc.so
-vendor/lib64/libmmcamera_faceproc2.so
 vendor/lib64/libmmcamera_lscv35.so
 vendor/lib64/libmmcamera_mfnr.so
 vendor/lib64/libmmcamera_mfnr_t4.so
