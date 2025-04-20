@@ -64,7 +64,6 @@ vendor/firmware/aw882xx_pid_2013_acf.bin
 # Audio HAL
 vendor/lib/hw/audio.primary.bengal.so
 vendor/lib/libaudio_log_utils.so
-vendor/lib/hw/sound_trigger.primary.bengal.so
 
 # Audio FX
 system_ext/etc/permissions/audiosphere.xml
