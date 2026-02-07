@@ -11,8 +11,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 WITH_GMS := true
 TARGET_DISABLE_EPPE := true
 
-# Inherit some common Evolution-X stuff.
-$(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
+# Inherit some common yapp-X stuff.
+$(call inherit-product, vendor/yaap/config/common_full_tablet_wifionly.mk)
 
 # Inherit from tb128fu device
 $(call inherit-product, device/lenovo/tb128fu/device.mk)
